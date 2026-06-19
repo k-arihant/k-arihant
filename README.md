@@ -25,11 +25,11 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=k-arihant&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=k-arihant&show_icons=true&theme=tokyonight" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=k-arihant&layout=compact)
-
----
-
-![](https://komarev.com/ghpvc/?username=k-arihant)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=k-arihant&theme=tokyonight" />
+</p>
 
