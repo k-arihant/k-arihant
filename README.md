@@ -29,6 +29,10 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/PaddleOCR-0062B0?style=flat-square&logo=paddlepaddle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Regex-4D4D4D?style=flat-square" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
@@ -73,6 +77,41 @@
 
 ---
 
-- **Smart India Hackathon** – MetroScan: OCR-based Legal Metrology label compliance checker (Python, PaddleOCR, Gemini API)
-- **Insurance Premium Predictor** – Linear Regression (R² = 0.80), served with Flask and Docker
+<h3 align="center">Projects</h3>
+
+### 🛒 [MetroScan](https://github.com/k-arihant/Metroscan) · Smart India Hackathon
+Checks packaged-product labels against the Legal Metrology (Packaged Commodities) Rules, 2011. I built the post-OCR stages: Gemini cleans noisy PaddleOCR text into mandatory fields, then an offline Python rule engine reports which rules pass or fail.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PaddleOCR-0062B0?style=flat-square&logo=paddlepaddle&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Regex-4D4D4D?style=flat-square" />
+
+### 💰 [Insurance Premium Predictor](https://github.com/k-arihant/Insurance-Premium-Predictor)
+Linear Regression model (R² = 0.80) that predicts premiums from policy attributes. IQR outlier treatment lifted R² from 0.78 to 0.80. Served through a Flask app packaged with Docker.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+
+### 📱 [Tracify](https://github.com/k-arihant/tracify)
+Flutter app project for screen-time tracking, with Firebase authentication, Google Sign-In, Cloud Firestore storage and charts.
+
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Cloud%20Firestore-FFA000?style=flat-square&logo=firebase&logoColor=white" />
+<img src="https://img.shields.io/badge/Provider-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/fl__chart-4D4D4D?style=flat-square" />
+
+### 🧩 [cses_practice](https://github.com/k-arihant/cses_practice)
+My solutions to the CSES Problem Set (introductory problems, DP, sorting and searching).
+
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/CSES-DSA-4D4D4D?style=flat-square" />
+
+---
+
 - Solved **500+ DSA problems**; strongest in Greedy, DP, Trees and Graphs
