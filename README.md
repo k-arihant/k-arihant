@@ -99,14 +99,6 @@
 ---
 
 
-## 🛠️ Featured Projects
-
-| Project | What it does | Tech |
-|---|---|---|
-| **[MetroScan](https://github.com/k-arihant/Metroscan)** <br> *Smart India Hackathon* | Checks packaged-product labels against the Legal Metrology (Packaged Commodities) Rules, 2011. I built the post-OCR stages: Gemini cleans noisy PaddleOCR text into mandatory fields, then an offline Python rule engine reports which rules pass or fail. | Python, PaddleOCR, Gemini API, Regex |
-| **[Insurance Premium Predictor](https://github.com/k-arihant/Insurance-Premium-Predictor)** | Linear Regression model (R² = 0.80) that predicts premiums from policy attributes. IQR outlier treatment lifted R² from 0.78 to 0.80. Served through a Flask app packaged with Docker. | Python, Pandas, Scikit-learn, Flask, Docker |
-| **[tracify](https://github.com/k-arihant/tracify)** | Flutter app for screen-time tracking with Firebase sign-in, Cloud Firestore storage and charts. | Dart, Flutter, Firebase, Provider |
-| **[cses_practice](https://github.com/k-arihant/cses_practice)** | My solutions to CSES problem set problems (introductory, DP, sorting and searching). | C++ |
 
 ---
 ## 📊 My Stats
@@ -141,6 +133,16 @@
 </p>
 
 ---
+
+## 🛠️ Featured Projects
+
+| Project | What it does | Tech |
+|---|---|---|
+| **[MetroScan](https://github.com/k-arihant/Metroscan)** <br> *Smart India Hackathon* | Checks packaged-product labels against the Legal Metrology (Packaged Commodities) Rules, 2011. I built the post-OCR stages: Gemini cleans noisy PaddleOCR text into mandatory fields, then an offline Python rule engine reports which rules pass or fail. | Python, PaddleOCR, Gemini API, Regex |
+| **[Insurance Premium Predictor](https://github.com/k-arihant/Insurance-Premium-Predictor)** | Linear Regression model (R² = 0.80) that predicts premiums from policy attributes. IQR outlier treatment lifted R² from 0.78 to 0.80. Served through a Flask app packaged with Docker. | Python, Pandas, Scikit-learn, Flask, Docker |
+| **[tracify](https://github.com/k-arihant/tracify)** | Flutter app for screen-time tracking with Firebase sign-in, Cloud Firestore storage and charts. | Dart, Flutter, Firebase, Provider |
+| **[cses_practice](https://github.com/k-arihant/cses_practice)** | My solutions to CSES problem set problems (introductory, DP, sorting and searching). | C++ |
+
 
 <p align="center"><i>Open to internships in Data Analysis and Machine Learning. Feel free to reach out.</i></p>
 
