@@ -36,8 +36,6 @@
 
 ---
 
-
-
 ## 🧰 Tech Stack
 
 <p align="center"><b>Languages</b></p>
@@ -98,27 +96,29 @@
 
 ---
 
-
-
----
 ## 📊 My Stats
 
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=k-arihant&hide_border=false&border_radius=16&background=0D1117&stroke=1F6FEB&ring=8957E5&fire=FF9800&currStreakNum=FFFFFF&currStreakLabel=FF9800&sideNums=58A6FF&sideLabels=8B949E&dates=8B949E&date_format=j%20M%5B%20Y%5D&locale=en" alt="GitHub streak" />
+<img src="https://github-readme-stats.shion.dev/api?username=k-arihant&theme=dark&show_icons=true" />
 </p>
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=k-arihant&show_icons=true&theme=tokyonight&border_radius=16&hide_border=false&border_color=1F6FEB&count_private=true&include_all_commits=true" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-arihant&layout=compact&theme=tokyonight&border_radius=16&hide_border=false&border_color=1F6FEB" />
+<img src="https://streak-stats.demolab.com?user=k-arihant&theme=dark" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=k-arihant&layout=compact&theme=dark" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+<!-- ## 📈 Contribution Graph -->
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=k-arihant&bg_color=0D1117&color=58A6FF&line=8957E5&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true&radius=16&title_color=58A6FF" alt="Contribution graph" />
-</p>
+<!-- Replaced github-readme-activity-graph (often down) with ghchart, which is far more stable -->
+<!-- <p align="center">
+  <img src="https://ghchart.rshah.org/8957e5/k-arihant" alt="Contribution graph" />
+</p> -->
 
 ---
 
